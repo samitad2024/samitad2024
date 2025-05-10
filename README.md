@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samuel Tadesse
 - 👀 I’m Software Engineer.
-- 💞️Self taught flutter developer.
+- ✨ Self taught flutter developer.
 - 📫 samigo2024@gmail.com
 
 
