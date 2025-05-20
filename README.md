@@ -1,5 +1,5 @@
 👋 Hi, I’m Samuel Tadesse
-🚀 Flutter Developer | 💻 Mobile App Enthusiast | Software Engineer.| Facebook Ads specialist
+🚀 Flutter Developer | 💻 Mobile App Enthusiast | Software Engineer.| Facebook Ads specialist | Graphics Designer.
 🛠️ Building seamless, cross-platform mobile apps with Flutter and Dart.
 🌟 Passionate about crafting beautiful UIs and exceptional user experiences.
 🎯 Always learning new technologies and improving existing skills.
