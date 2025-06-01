@@ -1,11 +1,12 @@
 👋 Hi, I’m Samuel Tadesse
-🚀 Flutter Developer | 💻 Mobile App Enthusiast | Software Engineer | Facebook Ads specialist | Graphics Designer.
+🚀 Flutter Developer | 💻 Mobile App Enthusiast | Software Engineer | Facebook Ads specialist | Graphics Designer | Socialmedia Manager
 🛠️ Building seamless, cross-platform mobile apps with Flutter and Dart.
 🌟 Passionate about crafting beautiful UIs and exceptional user experiences.
 🎯 Always learning new technologies and improving existing skills.
 🌱 Currently exploring Flutter Web and Desktop Applications development.
 🤝 Open to collaborating on exciting projects and open-source contributions.
 📫 samigo2024@gmail.com
+
 
 <!---
 
