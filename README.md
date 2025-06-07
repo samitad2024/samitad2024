@@ -5,6 +5,7 @@
 🎯 Always learning new technologies and improving existing skills.
 🌱 Currently exploring Flutter Web and Desktop Applications development.
 🤝 Open to collaborating on exciting projects and open-source contributions.
+
 📫 samigo2024@gmail.com
 
 
