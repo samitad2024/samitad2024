@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:Hi I'am Samuel Tadesse
 🔭 I’m currently working on Building seamless, cross-platform mobile apps with Flutter and Dart.<br>👯 I’m looking to collaborate on Flutter Web and Desktop Applications development.<br>🤝 I’m looking for help with  Exciting projects and open-source contributions.<br>🌱 I’m currently learning Flutter Web and Desktop Applications development.<br>💬 Ask me about  Flutter Developer, Mobile App Enthusiast, Software Engineer, Facebook Ads specialist, Graphics Designer, Socialmedia Manager, crafting beautiful User interfaces and exceptional user experiences.<br>⚡ Fun fact<br>
 
 
